@@ -5725,3 +5725,18 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-28 20:12:04.293
 !MESSAGE executing callback sts4.classpath.ghVIxGLs SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-29 17:26:37.244
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ghVIxGLs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-29 17:26:37.246
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ghVIxGLs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-29 17:26:37.247
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-29 17:26:37.248
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ghVIxGLs => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-10-29 17:26:37.900
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
