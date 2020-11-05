@@ -2001,3 +2001,14 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-11-01 11:45:23,283 [Worker-225: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-11-01 11:45:23,286 [Worker-225: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-01 11:45:23,287 [Worker-225: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alex_\Escritorio\eclipse-workspace\spring-backend\src\test\resources
+2020-11-01 12:07:38,306 [Worker-20: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-01 12:50:27,950 [Worker-50: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-01 12:50:27,957 [Worker-50: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-01 12:50:27,978 [Worker-50: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-01 12:50:27,983 [Worker-50: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-01 12:50:27,983 [Worker-50: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alex_\Escritorio\eclipse-workspace\spring-backend\src\test\resources
+2020-11-01 12:56:31,963 [Worker-57: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-01 12:56:31,968 [Worker-57: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-01 12:56:31,974 [Worker-57: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-01 12:56:31,978 [Worker-57: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-01 12:56:31,978 [Worker-57: Launching spring-backend - SpringBackendApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alex_\Escritorio\eclipse-workspace\spring-backend\src\test\resources
